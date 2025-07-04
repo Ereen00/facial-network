@@ -17,6 +17,3 @@ Model yaklaşık 200.000 kadar insan yüzünün %90 ile şu özellikleri kullan�
 Özelliklerin hepsi datasetinde var ya da yok olarak geçer, arası söz konusu değildir.
 Aynı datasetin içindeki Attractive özelliği (Bu özellik de datasetinin içinde sadece doğru ya da yanlış şeklinde belirtilmiştir) target olarak belirlenilir. 
 Eğitilen model, eğitildiği ve eğitilmediği örneklerde sadece yukarıdaki özelliklere bakarak verilen örneğin çekici olup olmadığına %78 başarı oranı ile tahmin edebilir.
-
-=> Modelin kadın ve erkekler için hangisinde daha başarılı sonuç verdiği test edilmeli.
-=> Modelin yaşlı ve gençler için hangisinde daha başarılı sonuç verdiği test edilmeli.
